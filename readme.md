@@ -1,0 +1,1 @@
+This repository is for reviewing my fundamentals, I deleted a repository with hundreds of procedural and object oriented JavaScript exercises. I am creating this repository as an attempt to rebuild that repository except this time I am using TypeScript and starting off at a higher level of difficulty.
